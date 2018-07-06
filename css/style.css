@@ -1,0 +1,25 @@
+.titulo{
+    font-family: 'Roboto', sans-serif;
+    color: #BCBBBB;
+    
+}
+.subtitulo{
+    font-family: 'Roboto', sans-serif;
+    color: 747704;
+}
+
+.img-logo{
+    max-height: 100px;
+	max-width: 100px;
+}
+
+hr{
+    color: 747704M;
+    border: 2px;
+}
+
+.img-footer{
+	height: 250px;
+	width: 250px;
+}
+
